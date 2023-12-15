@@ -1,0 +1,2 @@
+Tipo de triángulo= Equilátero
+Lados del triángulo= 1.0, 1.0, 1.0

@@ -1,0 +1,1 @@
+El factorial de 7 es: 5040
